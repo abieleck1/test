@@ -1,0 +1,16 @@
+/* Enter your custom styles here */
+.carouselClass{
+    background-color: cornflowerblue;
+}
+
+/* tr:hover span{
+ color: #00f !important;
+} */
+
+tr:nth-child(2n){
+background-color: white;
+}
+
+tr:nth-child(2n+1)  {
+background-color: lightgrey
+}
